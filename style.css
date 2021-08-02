@@ -216,7 +216,7 @@ a img.aligncenter {
     border: 1px solid #f0f0f0;
     max-width: 96%;
     /* Image does not overflow the content area */
-    
+
     padding: 5px 3px 10px;
     text-align: center;
 }
@@ -522,7 +522,7 @@ li.social-links a {
 .isotope,
 .isotope .isotope-item {
     /* change duration value to whatever you like */
-    
+
     -webkit-transition-duration: 0.8s;
     -moz-transition-duration: 0.8s;
     transition-duration: 0.8s;

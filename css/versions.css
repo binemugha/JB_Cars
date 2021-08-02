@@ -21,7 +21,7 @@ body.building_version .lead strong,
 body.building_version .icon-wrapper:hover a,
 body.building_version a:hover,
 body.building_version a:focus {
-    color: #e8a900; 
+    color: #23362a;
 }
 
 body.building_version .effect-1:after {
@@ -30,7 +30,7 @@ body.building_version .effect-1:after {
 
 
 /**************************************
-GRADIENTS 
+GRADIENTS
 **************************************/
 
 body.building_version .btn-buy:hover,
@@ -76,7 +76,7 @@ body.building_version .grd1:focus {
 }
 
 body.building_version .navbar-nav span {
-    color: #e8a900 !important;
+    color: #23362a !important;
 }
 
 body.building_version .seo-services .col-md-3:hover img {
@@ -104,7 +104,7 @@ body.building_version .header_style_01 .navbar-default .navbar-nav > li.active a
 body.building_version .header_style_01 .navbar-default .navbar-nav > li:hover a,
 body.building_version .header_style_01 .navbar-default .navbar-nav > li:focus a,
 body.building_version .header_style_01 .navbar-default .navbar-nav > li:active a {
-    color: #e8a900 !important;
+    color: #23362a !important;
 }
 
 body.building_version .first-section {
